@@ -9,7 +9,8 @@
 /tmp/
 /.ruby-gemset
 /.ruby-version
-Gemfile.lock
+*.lock
+
 /coverage
 .byebug_history
 
